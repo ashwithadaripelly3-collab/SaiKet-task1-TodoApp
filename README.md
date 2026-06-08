@@ -31,3 +31,14 @@ Internship tasks completed for **SaiKet Systems** as part of Python Development 
 **How to run:** 
 ```bash
 python Task2_guess_game.py
+## Task 3: Contact Book Application
+**Tech:** Python  
+**Run:** `python task3.py`  
+**Features:** Add/View/Search/Delete contacts, File handling saves to contacts.txt  
+**Output:** `task 3 screenshot 1.jpeg`
+
+## Task 4: Password Strength Checker
+**Tech:** Python  
+**Run:** `python task4.py`  
+**Features:** Checks 5 criteria, Score out of 5, Rating: Very Weak to Very Strong  
+**Output:** `task4 screenshot.jpeg`
