@@ -31,14 +31,42 @@ Internship tasks completed for **SaiKet Systems** as part of Python Development 
 **How to run:** 
 ```bash
 python Task2_guess_game.py
-## Task 3: Contact Book Application
-**Tech:** Python  
-**Run:** `python task3.py`  
-**Features:** Add/View/Search/Delete contacts, File handling saves to contacts.txt  
-**Output:** `task 3 screenshot 1.jpeg`
+```
+---
 
-## Task 4: Password Strength Checker
-**Tech:** Python  
-**Run:** `python task4.py`  
-**Features:** Checks 5 criteria, Score out of 5, Rating: Very Weak to Very Strong  
-**Output:** `task4 screenshot.jpeg`
+## 📞 Task 3: Contact Book Application
+**Tech Stack:** Python  
+**Demo:** [View Output](./task%203%20screenshot%201.jpeg)
+
+### Features:
+- ✅ Add new contacts with Name, Phone, Email
+- ✅ View all saved contacts
+- ✅ Search contacts by name
+- ✅ Delete contacts
+- ✅ File handling - data saved in `contacts.txt`
+- ✅ Menu-driven console interface
+
+**How to run:**
+```bash
+python task3.py
+```
+---
+
+## 🔐 Task 4: Password Strength Checker
+**Tech Stack:** Python  
+**Demo:** [View Output](./task4%20screenshot.jpeg)
+
+### Features:
+- ✅ Checks 5 criteria: Length >= 8, Uppercase, Lowercase, Number, Special Character
+- ✅ Score out of 5 with detailed analysis
+- ✅ Strength Rating: Very Weak, Weak, Medium, Strong, Very Strong
+- ✅ Green ticks ❌/✅ for each criteria
+- ✅ Clean CLI output
+
+**How to run:**
+```bash
+python task4.py
+```
+---
+**Submitted by:** Ashwitha Daripelly  
+**GitHub:** ashwithadaripelly3-collab
